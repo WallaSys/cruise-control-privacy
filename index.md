@@ -66,4 +66,4 @@ you to accept it again.
 
 ## Contact
 
-joshua@wallasys.com, or an issue on this page.s repository: https://github.com/WallaSys/cruise-control-privacy/issues
+joshua@wallasys.com, or an issue on this page's repository: https://github.com/WallaSys/cruise-control-privacy/issues
