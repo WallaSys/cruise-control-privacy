@@ -3,7 +3,7 @@ title: "Cruise Control: Web Extras — Privacy Policy"
 ---
 
 
-*Last updated 2026-09-05.*
+*Last updated 2026-09-23.*
 
 Cruise Control is a Safari extension that adds controls to sniffies.com while you use it. It is
 unofficial: Sniffies did not make it and has not approved it. One person built it. This page says
@@ -36,8 +36,10 @@ extension's private storage, which Sniffies cannot read.
 
 While a sniffies.com tab is open, the extension also holds in memory the profiles Sniffies has sent
 to that page — the same profile details you can see on the map, including sexual-health fields —
-so that its filters can work. Each one is dropped after ten minutes without an update, and all of
-it is gone when the tab closes. Message text is never kept.
+so that its filters can work. Each one is dropped after ten minutes without an update — except the
+last position of someone whose profile or conversation you opened, which stays until the tab closes so that the
+driving-directions button can still find them — and all of it is gone when the tab closes. Message
+text is never kept.
 
 ## Other people's data
 
