@@ -26,8 +26,9 @@ extension's private storage, which Sniffies cannot read.
 
 - **Your filters.** Every filter choice you make, including HIV status, drug use and kink filters,
   and any text you search bios for. Saved filter presets, if you make any.
-- **Notes and names you write about other people**, and whether you have marked someone as a
-  favorite or hidden them. Stored against their Sniffies user id.
+- **Notes and names you write about other people**, whether you have marked someone as a
+  favorite or hidden them, and any first name you have told it is not theirs. Stored against their
+  Sniffies user id.
 - **Places you save**, with their exact coordinates.
 - **Sniffies' own venue list**, as it was last shown to you.
 - **A short diagnostic log** of when the extension started and which panels opened. It contains no
@@ -38,7 +39,8 @@ While a sniffies.com tab is open, the extension also holds in memory the profile
 to that page — the same profile details you can see on the map, including sexual-health fields —
 so that its filters can work. Each one is dropped after ten minutes without an update — except the
 last position of someone whose profile or conversation you opened, which stays until the tab closes so that the
-driving-directions button can still find them — and all of it is gone when the tab closes. Message
+driving-directions button can still find them — and a first name read from the conversation you have
+open, shown as a guess until you keep it or turn it down. All of it is gone when the tab closes. Message
 text is never kept.
 
 ## Other people's data
